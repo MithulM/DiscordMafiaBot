@@ -33,4 +33,4 @@ async def load_error(ctx, error):
     if (isinstance(error, commands.MissingRequiredArgument)):
         await ctx.send('Please specify a cog to load.')
 
-client.run("NzUwOTM5MzUyNjc4NTMxMTk0.X1B0xQ.H2iZqD1q6daR-pA_ZlA29UfWgI0")
+client.run("token")
